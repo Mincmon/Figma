@@ -59,8 +59,14 @@ left: 590px;
 top: 788px;
 
 filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
-border: 3px;
+border: 10px;
+border-color: #000000;
 
+background-color: #ffffff00;
+}
+#pedido:hover {
+    color: #FFFFFF;
+    transition: 0.3s;
 }
 #produtos {
     position: absolute;
@@ -240,6 +246,7 @@ text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .barra:hover {
     color: #ffffff;
+    transition: 0.3s;
 }
 #se {
     position: absolute;
