@@ -5,3 +5,10 @@ body {
     height: 240vw;
     width: auto;
 }
+#inicio {
+    position: absolute;
+width: 1440px;
+height: 960px;
+left: 0px;
+top: 0px;
+}
