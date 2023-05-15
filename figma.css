@@ -12,3 +12,24 @@ height: 960px;
 left: 0px;
 top: 0px;
 }
+#po {
+    position: absolute;
+width: 194px;
+height: 48px;
+left: 979px;
+top: 61px;
+}
+#so {
+    position: absolute;
+width: 168px;
+height: 48px;
+left: 765px;
+top: 61px;
+}
+#m {
+    position: absolute;
+width: 98px;
+height: 48px;
+left: 621px;
+top: 61px;
+}
