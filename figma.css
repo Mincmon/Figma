@@ -69,3 +69,20 @@ height: 1024px;
 left: 0px;
 top: 960px;
 }
+#cardapio {
+    position: absolute;
+width: 595px;
+height: 150px;
+left: 422px;
+top: 73px;
+
+font-family: 'Rosario';
+font-style: normal;
+font-weight: 500;
+font-size: 60px;
+line-height: 73px;
+text-align: center;
+
+color: #000000;
+
+}
